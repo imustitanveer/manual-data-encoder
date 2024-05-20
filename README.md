@@ -1,4 +1,4 @@
-# ManualDataCoder
+# Manual Data Encoder
 
 A tool for manually encoding and labeling individual values in dataset columns.
 
@@ -6,7 +6,7 @@ A tool for manually encoding and labeling individual values in dataset columns.
 This repository includes a Python notebook that allows you to load data, find unique values in each column, and manually encode them numerically. It provides a straightforward way to handle categorical data by assigning numerical codes to different categories.
 
 ## Dataset
-The dataset used in this repository is "Mental Health Trends in the Age of Social Media" by Syed Anwar, created in January 2024, and sourced from Kaggle.
+The dataset used in this repository is ["Mental Health Trends in the Age of Social Media" by Syed Anwar](https://www.kaggle.com/code/syedanwarafridi/mental-health-trends-in-the-age-of-social-media/input), created in January 2024, and sourced from Kaggle.
 
 ## Features
 - Load the dataset into a Pandas DataFrame.
@@ -54,11 +54,5 @@ print(df)
 - `manual_data_coder.ipynb`: The Jupyter notebook containing the code.
 - `smmh.csv`: The original dataset file.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 - Dataset by Syed Anwar, "Mental Health Trends in the Age of Social Media," January 2024, Kaggle.
-```
-
-This `README.md` file provides an overview of the repository, the dataset used, features, usage instructions with code snippets, included files, and acknowledgements.
